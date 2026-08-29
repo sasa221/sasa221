@@ -34,7 +34,7 @@ Bilingual (Arabic/English) car-rental platform built for Egypt. Next.js + NestJS
 
 React + Vite + Tailwind + Supabase + Express. Egyptian Gen-Z streetwear store with variant inventory, COD, shipping zones, and realtime.
 
-**🔗 GitHub:** [github.com/sasa221/Si-wear](https://github.com/sasa221/Si-wear)
+**🔗 Live:** [si-wear.vercel.app](https://si-wear.vercel.app) · [GitHub](https://github.com/sasa221/Si-wear)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sasa221/Si-wear/main/screenshots/home.png" width="680" alt="Si-wear home page">
@@ -58,7 +58,7 @@ Learn languages with AI conversation (Google Gemini), voice practice, structured
 
 AI-powered interactive learning platform. Next.js + NestJS + PostgreSQL + Prisma. Courses, student/teacher roles, AI tutor, admin dashboard.
 
-**🔗 GitHub:** [github.com/sasa221/skillforge](https://github.com/sasa221/skillforge)
+**🔗 Live:** [skillforge-web-one.vercel.app](https://skillforge-web-one.vercel.app) · [GitHub](https://github.com/sasa221/skillforge)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sasa221/skillforge/main/screenshots/home.png" width="680" alt="SkillForge home page">
