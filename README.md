@@ -23,7 +23,7 @@
 Bilingual (Arabic/English) car-rental platform built for Egypt. Next.js + NestJS + PostgreSQL + Docker.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sasa221/RAHAL/main/artifacts/task-7-10/after/admin-dashboard-desktop-chromium.png" width="680" alt="RAHAL dashboard">
+  <img src="https://raw.githubusercontent.com/sasa221/RAHAL/main/screenshots/home.png" width="680" alt="RAHAL home page">
 </p>
 
 🔗 [GitHub](https://github.com/sasa221/RAHAL)
@@ -35,7 +35,7 @@ Bilingual (Arabic/English) car-rental platform built for Egypt. Next.js + NestJS
 React + Vite + Tailwind + Supabase + Express. Egyptian Gen-Z streetwear store with variant inventory, COD, shipping zones, and realtime.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sasa221/Si-wear/main/artifacts/swear/public/images/street-wear.png" width="680" alt="Si-wear store">
+  <img src="https://raw.githubusercontent.com/sasa221/Si-wear/main/screenshots/home.png" width="680" alt="Si-wear home page">
 </p>
 
 🔗 [GitHub](https://github.com/sasa221/Si-wear)
@@ -46,6 +46,10 @@ React + Vite + Tailwind + Supabase + Express. Egyptian Gen-Z streetwear store wi
 
 Learn languages with AI conversation (Google Gemini), voice practice, structured courses, and spaced repetition.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sasa221/LinguaFlow/main/screenshots/home.png" width="680" alt="LinguaFlow home page">
+</p>
+
 🔗 [Live Demo](https://lingua-flow-opal.vercel.app) · [GitHub](https://github.com/sasa221/LinguaFlow)
 
 ---
@@ -53,6 +57,10 @@ Learn languages with AI conversation (Google Gemini), voice practice, structured
 ### skillforge — AI Learning Platform
 
 AI-powered interactive learning platform. Next.js + NestJS + PostgreSQL + Prisma. Courses, student/teacher roles, AI tutor, admin dashboard.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sasa221/skillforge/main/screenshots/home.png" width="680" alt="SkillForge home page">
+</p>
 
 🔗 [GitHub](https://github.com/sasa221/skillforge)
 
@@ -63,7 +71,7 @@ AI-powered interactive learning platform. Next.js + NestJS + PostgreSQL + Prisma
 Turn your CV into a cinematic 3D portfolio recruiters remember. Vanilla JS + Vite + Three.js + Supabase.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sasa221/3D-protoflio-maker/main/src/assets/hero.png" width="680" alt="3D Portfolio Maker">
+  <img src="https://raw.githubusercontent.com/sasa221/3D-protoflio-maker/main/screenshots/home.png" width="680" alt="3D Portfolio Maker home page">
 </p>
 
 🔗 [Live Demo](https://portfolio-maker-murex.vercel.app) · [GitHub](https://github.com/sasa221/3D-protoflio-maker)
