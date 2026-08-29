@@ -1,114 +1,81 @@
 <!-- type: markdown -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/97096591?v=4" width="120" alt="Saleh Mohamed" style="border-radius:50%">
+  <img src="https://avatars.githubusercontent.com/u/97096591?v=4" width="110" alt="Saleh Mohamed" style="border-radius:50%">
 </p>
 
 <h3 align="center">Saleh Mohamed</h3>
 <p align="center">
   <b>CS student — Full-Stack Developer</b><br>
   Egypt<br>
-  <a href="https://www.linkedin.com/in/saleh-mohammedd">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a>
+  <a href="https://www.linkedin.com/in/saleh-mohammedd">💼 LinkedIn</a>
 </p>
 
 <p align="center">
-  <b>Open to work</b> — available for freelance and internship opportunities.
+  <b>Open to work</b> — freelance & internship opportunities.
 </p>
 
 ---
 
-## About
+## Projects
 
-I'm a Computer Science student based in Egypt, building real web applications with TypeScript, React, Node.js, PHP, and MySQL. I've shipped e-commerce platforms, dashboards, AI tools, and full-stack management systems.
+### RAHAL — Car Rental Platform (Egypt)
 
-Here are my recent projects:
+Bilingual (Arabic/English) car-rental platform built for Egypt. Next.js + NestJS + PostgreSQL + Docker.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sasa221/RAHAL/main/artifacts/task-7-10/after/admin-dashboard-desktop-chromium.png" width="680" alt="RAHAL dashboard">
+</p>
+
+🔗 [GitHub](https://github.com/sasa221/RAHAL)
 
 ---
 
-## Featured Projects
+### Si-wear — Streetwear Ecommerce
 
-### RAHAL — Car-Rental Platform for Egypt
-
-> A premium bilingual (Arabic/English) car-rental platform built for how rentals actually work in Egypt.
-
-**Stack:** Next.js 16 · NestJS 11 · TypeScript · PostgreSQL · Docker
+React + Vite + Tailwind + Supabase + Express. Egyptian Gen-Z streetwear store with variant inventory, COD, shipping zones, and realtime.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sasa221/RAHAL/main/artifacts/task-7-10/after/admin-dashboard-desktop-chromium.png" width="700" alt="RAHAL admin dashboard">
+  <img src="https://raw.githubusercontent.com/sasa221/Si-wear/main/artifacts/swear/public/images/street-wear.png" width="680" alt="Si-wear store">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sasa221/RAHAL/main/artifacts/task-7-10/after/customer-requests-desktop-chromium.png" width="700" alt="RAHAL customer requests">
-</p>
-
-🔗 [View on GitHub](https://github.com/sasa221/RAHAL)
+🔗 [GitHub](https://github.com/sasa221/Si-wear)
 
 ---
 
-### Si-wear — Egyptian Gen-Z Streetwear Ecommerce
+### LinguaFlow AI — Language Learning
 
-> React + Vite + Tailwind + Supabase + Express. Variant inventory, COD, shipping zones, discounts, cancellations, realtime.
+Learn languages with AI conversation (Google Gemini), voice practice, structured courses, and spaced repetition.
 
-**Stack:** React 19 · Vite 7 · Tailwind CSS 4 · Supabase · Express 5 · TypeScript
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sasa221/Si-wear/main/artifacts/swear/public/images/street-wear.png" width="700" alt="Si-wear streetwear store">
-</p>
-
-🔗 [View on GitHub](https://github.com/sasa221/Si-wear)
-
----
-
-### LinguaFlow AI — Conversational Language Learning
-
-> Learn languages through structured lessons, AI conversation (Google Gemini), voice practice, and spaced repetition.
-
-**Stack:** React · Vite · Tailwind CSS · Google Gemini · Firebase · TypeScript
-
-<p align="center">
-  🔗 <a href="https://lingua-flow-opal.vercel.app">Live Demo</a> · [View on GitHub](https://github.com/sasa221/LinguaFlow)
-</p>
+🔗 [Live Demo](https://lingua-flow-opal.vercel.app) · [GitHub](https://github.com/sasa221/LinguaFlow)
 
 ---
 
 ### skillforge — AI Learning Platform
 
-> AI-powered interactive learning platform with Next.js + NestJS + PostgreSQL + Prisma. Courses, student/teacher roles, AI tutor, admin dashboard.
+AI-powered interactive learning platform. Next.js + NestJS + PostgreSQL + Prisma. Courses, student/teacher roles, AI tutor, admin dashboard.
 
-**Stack:** Next.js · NestJS · TypeScript · PostgreSQL · Prisma
-
-🔗 [View on GitHub](https://github.com/sasa221/skillforge)
+🔗 [GitHub](https://github.com/sasa221/skillforge)
 
 ---
 
-### 3D Portfolio Maker — Cinematic 3D Portfolios
+### 3D Portfolio Maker
 
-> Turn your CV into a recruiter-ready interactive 3D portfolio. Import your CV, pick a theme, target specific jobs, publish, and track visitors.
-
-**Stack:** Vanilla JavaScript · Vite · Three.js renderer · Supabase
+Turn your CV into a cinematic 3D portfolio recruiters remember. Vanilla JS + Vite + Three.js + Supabase.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sasa221/3D-protoflio-maker/main/src/assets/hero.png" width="700" alt="3D Portfolio Maker">
+  <img src="https://raw.githubusercontent.com/sasa221/3D-protoflio-maker/main/src/assets/hero.png" width="680" alt="3D Portfolio Maker">
 </p>
 
-<p align="center">
-  🔗 <a href="https://portfolio-maker-murex.vercel.app">Live Demo</a> · [View on GitHub](https://github.com/sasa221/3D-protoflio-maker)
-</p>
+🔗 [Live Demo](https://portfolio-maker-murex.vercel.app) · [GitHub](https://github.com/sasa221/3D-protoflio-maker)
 
 ---
 
-## Tech Stack
+## Tech
 
-| Frontend | Backend | Data | Other |
-|---|---|---|---|
-| HTML / CSS / JavaScript | Node.js | MySQL | PHP |
-| React | Express | MongoDB | Bootstrap |
-| TypeScript | — | — | Git / GitHub |
+HTML · CSS · JavaScript · TypeScript · React · Node.js · PHP · MySQL · MongoDB · Bootstrap · Git
 
 ---
 
 ## Contact
 
-- **LinkedIn:** [Saleh Mohamed](https://www.linkedin.com/in/saleh-mohammedd)
-- **Portfolio:** [coming soon](YOUR_PORTFOLIO_URL)
-- **Email:** open an issue or reach out via LinkedIn
+[LinkedIn](https://www.linkedin.com/in/saleh-mohammedd) · Portfolio: _coming soon_
